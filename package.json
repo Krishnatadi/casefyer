@@ -1,0 +1,26 @@
+{
+  "name": "casefyer",
+  "version": "1.0.0",
+  "description": "A versatile npm package for converting text between various cases, including uppercase, lowercase, sentence case, title case, alternating case, and inverse case. Ideal for developers looking for quick text transformations.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "case conversion",
+    "text transformation",
+    "uppercase",
+    "lowercase",
+    "title case",
+    "sentence case",
+    "alternating case",
+    "inverse case",
+    "npm package",
+    "text utilities"
+  ],
+  "author": "krishna tadi",
+  "license": "ISC"
+}
